@@ -1,5 +1,5 @@
 # Site settings
-title: Harry's Blog
+title: <blog>
 email: harry671003@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,7 +9,7 @@ baseurl: /blog
 url: https://harryjohn.github.io
 twitter_username: harry671003
 github_username: harry671003
-minimal_mistakes_skin: air
+minimal_mistakes_skin: contrast
 
 # Build settings
 markdown: kramdown
@@ -35,6 +35,7 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : harry671003@gmail.com
   uri    : "https://harryjohn.io"
+  avatar : "https://en.gravatar.com/avatar/56c27f3df63adbb2ca07432b29ab36ec?s=200"
 
 defaults:
   # _posts
