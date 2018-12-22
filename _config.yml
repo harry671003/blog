@@ -29,11 +29,24 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Harry John"
-  bio    : "The odd one."
-  email  : harry671003@gmail.com
-  uri    : "https://harryjohn.io"
-  avatar : "https://en.gravatar.com/avatar/56c27f3df63adbb2ca07432b29ab36ec?s=200"
+  name: "Harry John"
+  avatar: "https://en.gravatar.com/avatar/56c27f3df63adbb2ca07432b29ab36ec?s=200"
+  bio: "The odd one."
+  location : "Hyderabad, India"
+  links:
+    - label: harryjohn.io
+      icon: "fas fa-fw fa-link"
+      url: "https://harryjohn.io"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/harry671003"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/harry671003"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/uglyhelmet"
+  
 
 defaults:
   # _posts
