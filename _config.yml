@@ -1,5 +1,5 @@
 # Site settings
-title: <blog>
+title: Blog (For the lack of a better name)
 email: harry671003@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -49,3 +49,9 @@ defaults:
       comments: true
       share: true
       related: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/harry671003"
