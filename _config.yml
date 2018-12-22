@@ -2,9 +2,7 @@
 title: Blog (For the lack of a better name)
 email: harry671003@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The odd one
 baseurl: /blog
 url: https://harryjohn.github.io
 twitter_username: harry671003
@@ -32,7 +30,7 @@ plugins:
 
 author:
   name   : "Harry John"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "The odd one."
   email  : harry671003@gmail.com
   uri    : "https://harryjohn.io"
   avatar : "https://en.gravatar.com/avatar/56c27f3df63adbb2ca07432b29ab36ec?s=200"
@@ -55,3 +53,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/harry671003"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/uglyhelmet"
