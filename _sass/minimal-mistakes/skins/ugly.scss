@@ -38,8 +38,11 @@ $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
 
-
 $font-family: 'Cutive Mono', monospace !important;
+
+$global-font-family: $font-family;
+$header-font-family: $font-family;
+$caption-font-family: $font-family;
 
 body {
   font-family: $font-family;
