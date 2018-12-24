@@ -44,15 +44,11 @@ $global-font-family: $font-family;
 $header-font-family: $font-family;
 $caption-font-family: $font-family;
 
-body {
-  font-family: $font-family;
-}
-
-.page__title {
-  font-family: $font-family;
-}
-
-.sidebar {
+body,
+.masthead__inner-wrap,
+.page__title,
+.sidebar
+{
   font-family: $font-family;
 }
 
