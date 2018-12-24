@@ -31,9 +31,9 @@ $base0d: #96cbfe !default;
 $base0e: #ff73fd !default;
 $base0f: #b18a3d !default;
 
-$serif: Georgia, Times, serif !default;
-$sans-serif: "Cutive Mono" sans-serif !default;
-$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+body {
+  font-family: monospace !important;
+}
 
 
 .page__content {
