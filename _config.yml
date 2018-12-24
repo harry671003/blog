@@ -8,7 +8,7 @@ baseurl: /blog
 url: https://harryjohn.github.io
 twitter_username: harry671003
 github_username: harry671003
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: ugly
 
 # Build settings
 markdown: kramdown
