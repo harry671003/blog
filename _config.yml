@@ -19,6 +19,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Kolkata
 
+# Analytics
+analytics:
+  provider               : "google-universal"
+  google:
+    tracking_id          : "UA-131415260-2"
 
 # Plugins (previously gems:)
 plugins:
